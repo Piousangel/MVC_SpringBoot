@@ -9,5 +9,5 @@ spring boot
 - h2 데이터베이스 사용
 
 
--lsof -i :number of port
--kill -9 PID
+- lsof -i :number of port
+- kill -9 PID
