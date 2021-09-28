@@ -1,6 +1,8 @@
 # MVC_SpringBoot
 spring boot
 
+--push 가 안됩니다... 9/28
+
 ## - SpringBoot MVC패턴을 활용하여 간단한 웹페이지 제작
 
 - SpringBoot의 다양한 dependencies사용
