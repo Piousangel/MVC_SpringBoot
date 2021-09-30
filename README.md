@@ -1,7 +1,7 @@
 # MVC_SpringBoot
 spring boot
 
---push 가 안됩니다... 9/28
+--push 가 안됩니다... 9/28 프로젝트 진행중 9/30
 
 ## - SpringBoot MVC패턴을 활용하여 간단한 웹페이지 제작
 
