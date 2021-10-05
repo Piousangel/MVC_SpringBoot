@@ -13,3 +13,5 @@ spring boot
 
 - lsof -i :number of port
 - kill -9 PID
+
+Queue.offer() -> 실패시 false반환 , Queue.add() -> 실패시 예외발생 처리
