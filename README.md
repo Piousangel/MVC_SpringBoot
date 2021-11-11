@@ -5,6 +5,19 @@ spring boot
 
 ## - SpringBoot MVC패턴을 활용하여 간단한 웹페이지 제작
 
+### HTTP 요청 메시지
+* Start Line
+  HTTP 메소드
+  URL
+  쿼리 스트링
+  스키마 프로토콜
+* 헤더
+  헤더 조회
+* 바디
+  form 파라미터 형식 조회
+  message body 데이터 직접 조회
+
+
 - SpringBoot의 다양한 dependencies사용
 - 간단한 Message는 Postman활용
 - 비즈니스모델 작성
