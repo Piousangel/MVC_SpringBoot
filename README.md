@@ -1,8 +1,6 @@
 # MVC_SpringBoot
 spring boot
 
---push 가 안됩니다... 9/28 프로젝트 진행중 9/30
-
 ## - SpringBoot MVC패턴을 활용하여 간단한 웹페이지 제작
 
 ### HTTP 요청 메시지
@@ -32,4 +30,4 @@ spring boot
 Queue.offer() -> 실패시 false반환 , Queue.add() -> 실패시 예외발생 처리
 
 request.getHeaderNames().asIterator()
-      - .forEachRemaining(headerName -> System.out.~) 응용
+         .forEachRemaining(headerName -> System.out.~) 응용
