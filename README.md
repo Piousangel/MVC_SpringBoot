@@ -30,3 +30,6 @@ spring boot
 - kill -9 PID
 
 Queue.offer() -> 실패시 false반환 , Queue.add() -> 실패시 예외발생 처리
+
+request.getHeaderNames().asIterator()
+      - .forEachRemaining(headerName -> System.out.~) 응용
