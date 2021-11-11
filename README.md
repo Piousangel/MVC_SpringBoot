@@ -16,7 +16,8 @@ spring boot
 * 바디
    - form 파라미터 형식 조회
    - message body 데이터 직접 조회
-   
+
+# HTTP스펙이 제공하는 요청, 응답 메세지 자체를 심도있게 이해해야함
 --------------------------------------
 
 - SpringBoot의 다양한 dependencies사용
