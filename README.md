@@ -31,3 +31,7 @@ Queue.offer() -> 실패시 false반환 , Queue.add() -> 실패시 예외발생 �
 
 request.getHeaderNames().asIterator()
          .forEachRemaining(headerName -> System.out.~) 응용
+
+
+import java.util.regex.Pattern;
+boolean chk = Pattern.matches("^[a-zA-Z0-9]*$", s);
