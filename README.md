@@ -1,5 +1,5 @@
 # MVC_SpringBoot
-spring boot
+spring boot 개인적으로 할게요 업로드가 안됩니다.
 
 ## - SpringBoot MVC패턴을 활용하여 간단한 웹페이지 제작
 
