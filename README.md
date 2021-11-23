@@ -3,6 +3,9 @@ spring boot
 
 ## - SpringBoot MVC패턴을 활용하여 간단한 웹페이지 제작
 
+
+<img width="823" alt="스크린샷 2021-11-23 오후 5 47 57" src="https://user-images.githubusercontent.com/55525574/142994161-727297c3-8c58-4db8-ac36-1dfac643ec98.png">
+
 ### HTTP 요청 메시지
 * Start Line
    - HTTP 메소드
