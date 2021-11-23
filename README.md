@@ -6,6 +6,20 @@ spring boot
 
 <img width="823" alt="스크린샷 2021-11-23 오후 5 47 57" src="https://user-images.githubusercontent.com/55525574/142994161-727297c3-8c58-4db8-ac36-1dfac643ec98.png">
 
+- 핸들러 조회 : 핸들러 매핑을 통해 요청 URL에 매핑된 핸들러(컨트롤러)를 조회한다.
+- 핸들러 오댑터 조회 : 핸들러를 실행할 수 있는 핼들러 어댑터를 조회한다.
+- 핸들러 어댑터 실행 : 핸들러 어댑터를 실행한다.
+- 핸들러 실행 : 핸들러 어댑터가 실제 핸들러를 실행한다.
+- ModelAndView 반환 : 핸들러 어댑터는 핸들러가 반환하는 정보를 ModelAndView로 변환해서 반환한다.
+- viewResolver 호출 : 뷰 리졸버를 찾고 실행한다. JSP경우 InternalResourceView(ustlView)를 반환하는데, 내부에 forward()로직이 있음
+- 뷰 렌더링 : 뷰를 통해서 뷰를 렌더링 한다.
+
+### 주요 인터페이스 목록
+- 핸들러 매핑 : org.springframework.web.servlet.HandlerMapping
+- 핸들러 어댑터 : org.springframework.web.servlet.HandlerAdapter
+- 뷰 리졸버 : org.springframework.web.servlet.ViewResolver
+- 뷰 : org.springframework.web.servlet.View
+
 ### HTTP 요청 메시지
 * Start Line
    - HTTP 메소드
