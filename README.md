@@ -20,7 +20,7 @@ spring boot 개인적으로 할게요 업로드가 안됩니다.
 - 뷰 리졸버 : org.springframework.web.servlet.ViewResolver
 - 뷰 : org.springframework.web.servlet.View
 
-SLF4J가 인터페이스 Logback이 구현체임 로깅!!! log.info(), log.trace()
+SLF4J가 인터페이스 Logback이 구현체임 로깅!!! log.info(), log.trace(), log.warn(), log.error(), log.debug()
 
 ### HTTP 요청 메시지
 * Start Line
