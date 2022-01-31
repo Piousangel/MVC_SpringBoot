@@ -43,7 +43,7 @@ SLF4J가 인터페이스 Logback이 구현체임 로깅!!! log.info(), log.trace
 - h2 데이터베이스 사용
 
 
-- lsof -i :number of port
+- lsof -i :number of port. ,lsof -n -i4TCP: portnum
 - kill -9 PID
 
 Queue.offer() -> 실패시 false반환 , Queue.add() -> 실패시 예외발생 처리
